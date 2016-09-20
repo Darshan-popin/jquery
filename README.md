@@ -1,6 +1,8 @@
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
+this Fork of jQuery is created to over come the conflict when the jquery is used along side of the angular 2,. 
+
 Contribution Guides
 --------------------------------------
 
